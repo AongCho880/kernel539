@@ -1,5 +1,8 @@
 ## **Kernel539 Project Set-Up Instructions**
 
+### Clone the project from GitHub
+> `git clone https://github.com/AongCho880/kernel539.git`
+
 ### Environment Set-Up
 - Goto the project directory and run the following commnad using terminal
 > `./setup_539kernel.sh`
