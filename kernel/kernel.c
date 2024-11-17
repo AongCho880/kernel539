@@ -68,8 +68,6 @@ void process_command() {
     cmd_buffer_pos = 0;
 }
 
-
-
 // Exit Kernel
 void exit_kernel() {
     terminal_initialize();
