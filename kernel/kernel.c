@@ -86,6 +86,7 @@ void kernel_main() {
     terminal_writestring("Type 'help' for available commands\n");
     terminal_writestring("\n> ");
 
+    // This is new  comment
     // Simple command loop
     while (1) {
         // Check keyboard status
